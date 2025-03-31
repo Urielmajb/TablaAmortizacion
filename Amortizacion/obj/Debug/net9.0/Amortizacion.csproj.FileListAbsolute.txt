@@ -1,0 +1,14 @@
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\Amortizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\Amortizacion.AssemblyInfoInputs.cache
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\Amortizacion.AssemblyInfo.cs
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\Amortizacion.csproj.CoreCompileInputs.cache
+C:\Users\uriel\Examen\Amortizacion\bin\Debug\net9.0\Amortizacion.exe
+C:\Users\uriel\Examen\Amortizacion\bin\Debug\net9.0\Amortizacion.deps.json
+C:\Users\uriel\Examen\Amortizacion\bin\Debug\net9.0\Amortizacion.runtimeconfig.json
+C:\Users\uriel\Examen\Amortizacion\bin\Debug\net9.0\Amortizacion.dll
+C:\Users\uriel\Examen\Amortizacion\bin\Debug\net9.0\Amortizacion.pdb
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\Amortizacion.dll
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\refint\Amortizacion.dll
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\Amortizacion.pdb
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\Amortizacion.genruntimeconfig.cache
+C:\Users\uriel\Examen\Amortizacion\obj\Debug\net9.0\ref\Amortizacion.dll
